@@ -3,5 +3,38 @@
 }
 
 /* write your rules below  this line*/
+.dark-bg {
+  background-color: #1e1e1e;
+  color:#ffffff;
+}
+
+.light-text {
+  color: #ffffff;
+}
+
+.rounded {
+    border-radius:  10px;
+}
+
+
+.spaced-out {
+  padding: 20px;
+}
+
+#page-title {
+     font-size: 48px;
+}
+
+.card {
+    background-color: antiquewhite;
+    border: #1e1e1e;
+    padding: 20px;
+}
+
+.warning {
+    color: red;
+}
+
+
 
 
